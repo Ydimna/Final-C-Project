@@ -1,4 +1,4 @@
-# Final-C-Project
+# Final-CSharp-Project
 Steps to follow in order to be able to run the project:
 1 - Select all Cut the elements of the file Packages-part2 and past them on the file packages with the rest of packages.
 2- Delete file Packages-part2.
